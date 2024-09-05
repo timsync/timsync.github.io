@@ -1,3 +1,3 @@
 ## hello
 
-welcome to my webseie!
+welcome to my Website!
